@@ -1,2 +1,3 @@
-# AI-model-to-detect-medical-ins-urance-fraud
+# AI Model to detect medical insurance fraud
+
 Experience solving problems by training multiple classification models
