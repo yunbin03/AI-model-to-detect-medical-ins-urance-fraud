@@ -12,7 +12,7 @@
      c) Categorical variables are processed using one-hot encoding
      d) Transforming age data extraction from patient_dom
 
-     -- After we picked Classification Model 
+     ≻≻ After we picked Classification Model 
      e) Using Scaler (StandardScaler, MinMaxScaler)
      f) 2-dimensional reduction principal component analysis PCA
      // We added various methods because we hoped to enhance the model's accuracy.
