@@ -1,4 +1,4 @@
-#  📌 AI Model to detect medical insurance fraud
+#  📑 AI Model to detect medical insurance fraud
 ### **Experience solving problems by training multiple classification models**
 ***
 ## ✔ This project has two main objectices
