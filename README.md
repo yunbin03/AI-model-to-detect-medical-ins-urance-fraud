@@ -3,7 +3,7 @@
 
 ✔ This project has two main objectices
   • Our goal is to create a fair and trustworthy insurance system.
-  • We hope to create a safer and more efficient system that benefits both insurance companies and            customers.
+  • We hope to create a safer and more efficient system that benefits both insurance companies and customers.
  
 ✔ Main part in project
   • Data Preprocessing
